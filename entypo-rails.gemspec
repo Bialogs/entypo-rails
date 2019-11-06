@@ -17,7 +17,4 @@ Gem::Specification.new do |gem|
   gem.name          = "entypo-rails"
   gem.require_paths = ["lib"]
   gem.version       = Entypo::VERSION
-
-  gem.required_ruby_version = '>= 1.9'
-  gem.add_dependency "railties", ">= 4.1", "< 6"
 end
